@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/primus/static/css/main.f532f581.css",
-    "main.js": "/primus/static/js/main.bcc23e50.js",
+    "main.js": "/primus/static/js/main.9bf856c6.js",
     "static/js/453.89ee7a61.chunk.js": "/primus/static/js/453.89ee7a61.chunk.js",
     "index.html": "/primus/index.html",
     "main.f532f581.css.map": "/primus/static/css/main.f532f581.css.map",
-    "main.bcc23e50.js.map": "/primus/static/js/main.bcc23e50.js.map",
+    "main.9bf856c6.js.map": "/primus/static/js/main.9bf856c6.js.map",
     "453.89ee7a61.chunk.js.map": "/primus/static/js/453.89ee7a61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f532f581.css",
-    "static/js/main.bcc23e50.js"
+    "static/js/main.9bf856c6.js"
   ]
 }
